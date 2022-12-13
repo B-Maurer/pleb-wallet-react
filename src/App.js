@@ -26,6 +26,7 @@ function App() {
     <div className='App'>
       <h1>Bitcoin Price</h1>
       <h3>${price}</h3>
+      <p>Test paragraph</p>
     </div>
   );
 }
